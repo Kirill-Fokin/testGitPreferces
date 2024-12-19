@@ -1,5 +1,8 @@
 console.log('hello')
 
+
+const friends = ['sash', 'vasia'];
+
 const hi = word => word + 'hi';
 
 
