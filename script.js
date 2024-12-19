@@ -5,6 +5,12 @@ const friends = ['sash', 'vasia'];
 
 const a = 3;
 
+function kek (arr) {
+    return 1;
+}
+
+
+kek(friends);
 const hi = word => word + 'hi';
 
 
